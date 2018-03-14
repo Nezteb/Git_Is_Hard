@@ -23,6 +23,7 @@
 - http://www.git-legit.org/
 - http://www.gitkraken.com/screenshots
 - https://github.com/tj/git-extras
+- http://gitup.co/
 
 ## Git (General)
 - http://learngitbranching.js.org/
