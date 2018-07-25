@@ -30,6 +30,9 @@
 ## Git (General)
 - http://learngitbranching.js.org/
 - https://devbookhelp.herokuapp.com/git
+- https://github.com/blog/2019-how-to-undo-almost-anything-with-git
+- https://github.com/git-tips/tips
+- https://gist.github.com/hofmannsven/6814451
 - https://try.github.io/levels/1/challenges/1
 - http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 - http://nvie.com/posts/a-successful-git-branching-model/
