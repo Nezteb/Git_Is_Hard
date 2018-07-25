@@ -24,6 +24,8 @@
 - http://www.gitkraken.com/screenshots
 - https://github.com/tj/git-extras
 - http://gitup.co/
+- https://github.com/github/hub
+- https://github.com/Originate/git-town
 
 ## Git (General)
 - http://learngitbranching.js.org/
