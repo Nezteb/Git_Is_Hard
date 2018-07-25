@@ -12,20 +12,20 @@
 - http://gitprep.yukikimoto.com/
 
 ## Clients/Tools/Resources
+- http://gitup.co/
+- https://github.com/github/hub
+- https://github.com/Originate/git-town
+- https://github.com/tj/git-extras
+- https://github.com/stevemao/awesome-git-addons
 - https://github.com/FredrikNoren/ungit
 - https://www.sourcetreeapp.com/
 - https://gitter.im/
 - https://education.github.com/pack
 - https://waffle.io/
-- https://github.com/stevemao/awesome-git-addons
 - http://prose.io/
 - https://www.gitbook.com
 - http://www.git-legit.org/
 - http://www.gitkraken.com/screenshots
-- https://github.com/tj/git-extras
-- http://gitup.co/
-- https://github.com/github/hub
-- https://github.com/Originate/git-town
 
 ## Git (General)
 - http://learngitbranching.js.org/
