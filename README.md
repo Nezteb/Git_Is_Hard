@@ -74,6 +74,7 @@
 - https://www.youtube.com/watch?v=oFYyTZwMyAg
 - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 - https://www.youtube.com/watch?v=IHaTbJPdB-s
+- https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
