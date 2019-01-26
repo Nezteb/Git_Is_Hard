@@ -73,6 +73,7 @@
 - [GitHub Pull Request, Branching, Merging & Team Workflow](https://www.youtube.com/watch?v=oFYyTZwMyAg)
 - [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 - [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
+- [The New Boston's Git Series](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
 
 # Other Link Aggregates
 - [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
