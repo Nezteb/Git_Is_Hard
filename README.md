@@ -76,6 +76,6 @@
 - [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 
 # Other Link Aggregates
-- https://github.com/phillipadsmith/awesome-github
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git
-- https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#git
+- [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)
+- [Ebook Foundation: Free Git Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#git)
+- [Ebook Foundation: Interactive Git Tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md#git)
