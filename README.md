@@ -12,20 +12,20 @@
 - [GitPrep](http://gitprep.yukikimoto.com/)
 
 ## Clients/Tools/Resources
-- http://gitup.co/
-- https://github.com/github/hub
-- https://github.com/Originate/git-town
-- https://github.com/tj/git-extras
-- https://github.com/stevemao/awesome-git-addons
-- https://github.com/FredrikNoren/ungit
-- https://www.sourcetreeapp.com/
-- https://gitter.im/
-- https://education.github.com/pack
-- https://waffle.io/
-- http://prose.io/
-- https://www.gitbook.com
-- http://www.git-legit.org/
-- http://www.gitkraken.com/screenshots
+- [GitUp](http://gitup.co/)
+- [Hub](https://github.com/github/hub)
+- [Git Town](https://github.com/Originate/git-town)
+- [Git Extras](https://github.com/tj/git-extras)
+- [Awesome git addons](https://github.com/stevemao/awesome-git-addons)
+- [Ungit](https://github.com/FredrikNoren/ungit)
+- [Sourcetree](https://www.sourcetreeapp.com/)
+- [Gitter](https://gitter.im/)
+- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [Waffle](https://waffle.io/)
+- [Prose](http://prose.io/)
+- [GitBook](https://www.gitbook.com)
+- [Legit](http://www.git-legit.org/)
+- [GitKraken](https://www.gitkraken.com/)
 - [Git Fork](https://git-fork.com)
 
 ## Git (General)
