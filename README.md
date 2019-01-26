@@ -70,10 +70,10 @@
 - [Explain Like I'm Five: Github](https://www.reddit.com/r/learnprogramming/comments/304yfp/eli5_github/)
 
 ## Videos
-- http://www.caseyli.com/videos
-- https://www.youtube.com/watch?v=oFYyTZwMyAg
-- https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
-- https://www.youtube.com/watch?v=IHaTbJPdB-s
+- [Caseyli: Gitting To Know You Series](http://www.caseyli.com/videos)
+- [GitHub Pull Request, Branching, Merging & Team Workflow](https://www.youtube.com/watch?v=oFYyTZwMyAg)
+- [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Learn Git in 20 Minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 
 # Other Link Aggregates
 - https://github.com/phillipadsmith/awesome-github
