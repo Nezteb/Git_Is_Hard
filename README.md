@@ -1,15 +1,15 @@
 # Git Is Hard
 
 ## Servers
-- https://about.gitlab.com/
-- https://gogs.io/
-- http://phabricator.org/
-- https://taiga.io/
-- https://github.com/gitbucket/gitbucket
-- https://www.tuleap.org/try-and-go
-- https://github.com/go-gitea/gitea
-- https://rhodecode.com/download/community
-- http://gitprep.yukikimoto.com/
+- [GitLab](https://about.gitlab.com/)
+- [Gogs](https://gogs.io/)
+- [Phabricator](http://phabricator.org/)
+- [Taiga](https://taiga.io/)
+- [GitBucket](https://github.com/gitbucket/gitbucket)
+- [Tuleap](https://www.tuleap.org)
+- [Gitea](https://github.com/go-gitea/gitea)
+- [RhodeCode Community Edition](https://rhodecode.com/download/community)
+- [GitPrep](http://gitprep.yukikimoto.com/)
 
 ## Clients/Tools/Resources
 - http://gitup.co/
