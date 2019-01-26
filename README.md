@@ -59,10 +59,10 @@
   - http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/
   - https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407#.ofv6mhkdk
 - Commit Messages
-  - http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-  - https://news.ycombinator.com/item?id=10212582
-  - http://who-t.blogspot.de/2009/12/on-commit-messages.html
-  - http://rakeroutes.com/blog/deliberate-git/
+  - [Deliberate Git](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+  - [On commit messages](https://news.ycombinator.com/item?id=10212582)
+  - [How to Write a Git Commit Message](http://who-t.blogspot.de/2009/12/on-commit-messages.html)
+  - [A Note About Git Commit Messages](http://rakeroutes.com/blog/deliberate-git/)
 
 ## Github (Specific)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
