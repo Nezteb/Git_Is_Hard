@@ -51,13 +51,13 @@
 - http://gitready.com/
 - https://github.com/git-game/git-game
 - Vendoring/Submodules/Subtrees:
-  - http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/
-  - https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844#.33s8on2yg
-  - https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec#.s6z8bjqs6
-  - https://git-scm.com/book/en/v2/Git-Tools-Submodules
-  - https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
-  - http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/
-  - https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407#.ofv6mhkdk
+  - [Git subtree: the alternative to Git submodule](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
+  - [Git Subtrees: A Tutorial](https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844#.33s8on2yg)
+  - [Mastering Git subtrees](https://medium.com/@porteneuve/mastering-git-subtrees-943d29a798ec#.s6z8bjqs6)
+  - [Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+  - [Git Submodules: Adding, Using, Removing, Updating](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+  - [Git submodules: core concept, workflows, and tips](http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
+  - [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407#.ofv6mhkdk)
 - Commit Messages
   - [Deliberate Git](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
   - [On commit messages](https://news.ycombinator.com/item?id=10212582)
