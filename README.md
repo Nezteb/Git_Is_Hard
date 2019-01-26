@@ -66,7 +66,6 @@
 
 ## Github (Specific)
 - https://github.com/tiimgreen/github-cheat-sheet#readme
-- http://www.stateofcode.com/2013/06/using-github-issues-effectively/
 - https://www.lullabot.com/articles/managing-projects-with-github
 - https://www.reddit.com/r/learnprogramming/comments/304yfp/eli5_github/
 
