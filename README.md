@@ -65,9 +65,9 @@
   - http://rakeroutes.com/blog/deliberate-git/
 
 ## Github (Specific)
-- https://github.com/tiimgreen/github-cheat-sheet#readme
-- https://www.lullabot.com/articles/managing-projects-with-github
-- https://www.reddit.com/r/learnprogramming/comments/304yfp/eli5_github/
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+- [Managing Projects with GitHub](https://www.lullabot.com/articles/managing-projects-with-github)
+- [Explain Like I'm Five: Github](https://www.reddit.com/r/learnprogramming/comments/304yfp/eli5_github/)
 
 ## Videos
 - http://www.caseyli.com/videos
