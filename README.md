@@ -29,27 +29,26 @@
 - [Git Fork](https://git-fork.com)
 
 ## Git (General)
-- http://learngitbranching.js.org/
-- https://devbookhelp.herokuapp.com/git
-- https://github.com/blog/2019-how-to-undo-almost-anything-with-git
-- https://github.com/git-tips/tips
-- https://gist.github.com/hofmannsven/6814451
-- https://try.github.io/levels/1/challenges/1
-- http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
-- http://nvie.com/posts/a-successful-git-branching-model/
-- http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
-- http://git-scm.com/book/en/v2
-- http://rogerdudler.github.io/git-guide/
-- https://www.atlassian.com/git/tutorials/
-- http://www-cs-students.stanford.edu/~blynn/gitmagic/book.html
-- https://git.wiki.kernel.org/index.php/GitSvnCrashCourse
-- https://jan-krueger.net/git-cheat-sheet-extended-edition
-- http://marklodato.github.io/visual-git-guide/index-en.html
-- https://github.com/arslanbilal/git-cheat-sheet
-- https://github.com/git-tips/tips
-- http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html
-- http://gitready.com/
-- https://github.com/git-game/git-game
+- [Learn Git Branching](http://learngitbranching.js.org/)
+- [Git Commands](https://devbookhelp.herokuapp.com/git)
+- [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+- [Most commonly used git tips and tricks](https://github.com/git-tips/tips)
+- [Using Git](https://gist.github.com/hofmannsven/6814451)
+- [Resources to learn Git](https://try.github.io/levels/1/challenges/1)
+- [Git Commands and Best Practices Cheat Sheet](http://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/)
+- [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+- [Git for beginners: The definitive practical guide](http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide)
+- [Pro Git](http://git-scm.com/book/en/v2)
+- [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+- [Become a Git Guru](https://www.atlassian.com/git/tutorials/)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/book.html)
+- [Git Svn Crash Course](https://git.wiki.kernel.org/index.php/GitSvnCrashCourse)
+- [Git cheat sheet, extended edition](https://jan-krueger.net/git-cheat-sheet-extended-edition)
+- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+- [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html)
+- [Git Ready](http://gitready.com/)
+- [Git Game](https://github.com/git-game/git-game)
 - Vendoring/Submodules/Subtrees:
   - [Git subtree: the alternative to Git submodule](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
   - [Git Subtrees: A Tutorial](https://medium.com/@v/git-subtrees-a-tutorial-6ff568381844#.33s8on2yg)
