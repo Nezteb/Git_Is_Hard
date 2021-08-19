@@ -1,5 +1,7 @@
 # Git Is Hard
 
+_This was originally a GitHub repo that could have been a Gist, [so I made it into a Gist instead](https://gist.github.com/Nezteb/b5a61912b92e437f4a71428f39585b92). This repo got a decent number of stars though, so I'm only archiving it instead of deleting it. Any changes/recommendations can be suggested in the Gist._
+
 ## Servers
 - [GitLab](https://about.gitlab.com/)
 - [Gogs](https://gogs.io/)
